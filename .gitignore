@@ -106,3 +106,4 @@ yarn-error.log
 *.keystore
 .DS_Store
 Backend/services/firebase-key.json
+Frontend/android/app/google-services.json
